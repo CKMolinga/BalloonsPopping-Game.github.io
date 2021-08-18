@@ -1,19 +1,19 @@
-body{
-    font-family:sans-serif;
+body {
+    font-family: sans-serif;
     padding: 30px;
-    background:#ededed;
+    background: #ededed;
 }
 
-.wrapper{
+.wrapper {
     max-width: 690px;
     margin: 0 auto;
 }
 
 .blue {
-    color:#3f7abe;
+    color: #3f7abe;
 }
 
-h1{
+h1 {
     margin: auto;
     margin-top: 50px;
     margin-bottom: 50px;
@@ -23,7 +23,7 @@ h1{
     color: #000380;
 }
 
-#balloon-gallery div{
+#balloon-gallery div {
     background: #ff3300;
     height: 121px;
     width: 119px;
@@ -38,37 +38,37 @@ h1{
     margin: 2.5px 5 px 2.5px 0px;
 }
 
-#balloon-gallery div:nth-child(3n){
+#balloon-gallery div:nth-child(3n) {
     background: #ffce00;
     color: #ffce00;
 }
 
-#balloon-gallery div:nth-child(3n-1){
-    background:#3f7abe;
-    color:#3f7abe;
+#balloon-gallery div:nth-child(3n-1) {
+    background: #00D2FE;
+    color: #00D2FE;
 }
 
-#balloon-gallery div:nth-child(5n){
-    background:#8e7a8e;
-    color:#8e7a8e;
+#balloon-gallery div:nth-child(5n) {
+    background: #FF58FF;
+    color: #FF58FF;
 }
 
-#balloon-gallery div:nth-child(13){
-    background:#8e7a8e;
-    color:#8e7a8e;
+#balloon-gallery div:nth-child(13) {
+    background: #FF58FF;
+    color: #FF58FF;
 }
 
-#balloon-gallery div:nth-child(10n){
-    background:#ff3300;
+#balloon-gallery div:nth-child(10n) {
+    background: #ff3300;
     color: #ff3300;
 }
 
-#balloon-gallery div:nth-child(4n){
-    clear:right;
+#balloon-gallery div:nth-child(4n) {
+    clear: right;
 }
 
 #yay-no-balloons {
-    display:none;
-    color:#ff3300;
-    font-size:100px;
+    display: none;
+    color: #008F86;
+    font-size: 100px;
 }
